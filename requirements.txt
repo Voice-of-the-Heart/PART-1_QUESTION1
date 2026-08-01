@@ -1,5 +1,4 @@
-# Exact versions this pipeline was built and verified against.
-numpy==2.4.4
-pandas==3.0.2
-scipy==1.17.1
-matplotlib==3.10.8
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.9
