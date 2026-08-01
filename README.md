@@ -81,7 +81,7 @@ fully scripted and runs unattended via `run_pipeline.sh`.
 polygons) **is** committed, since these are small, static reference files
 appropriate to version control directly.
 
-## Key design decisions (see docs/Decision_Brief_Incident_Manager (1) for full justification)
+## Key design decisions (see docs/QA_THRESHOLDS.md for full justification)
 
 - **Store:** SQLite (Python stdlib, zero install, fully portable for review).
   Schema and idempotency mechanism (deterministic content-hash key +
