@@ -1,0 +1,11 @@
+cluster,ward,lga,settlements,children,RR,span_km,child_per_settle,team_days,children_per_team_day,cum_team_days,cum_children,cum_pct_of_cluster_children
+3,Umyosa,Idi-Oro,15,3795,2.39,22.1,253.0,2,1898.0,2,3795,20.2
+2,Baluru,Idi-Oro,5,1819,5.3,5.6,364.0,1,1819.0,3,5614,29.8
+1,Umyosa,Idi-Oro,10,3128,3.42,5.5,313.0,2,1564.0,5,8742,46.4
+6,Okradu,Idi-Oro,5,1205,4.24,4.0,241.0,1,1205.0,6,9947,52.9
+5,Bayoyi,Idi-Oro,2,928,5.81,3.4,464.0,1,928.0,7,10875,57.8
+4,Satita,Idi-Oro,3,890,6.11,3.4,297.0,1,890.0,8,11765,62.5
+7,Baluru,Idi-Oro,2,822,5.77,2.7,411.0,1,822.0,9,12587,66.9
+9,Ekngoyi,Idi-Oro,4,719,5.38,6.3,180.0,1,719.0,10,13306,70.7
+10,Kungomi,Katsuma,54,4849,1.69,60.9,90.0,7,693.0,17,18155,96.5
+8,Ekngoyi,Idi-Oro,1,666,6.11,0.0,666.0,1,666.0,18,18821,100.0
