@@ -1,6 +1,5 @@
+# Exact versions this pipeline was built and verified against.
 numpy==2.4.4
-pandas>=2.2
+pandas==3.0.2
 scipy==1.17.1
 matplotlib==3.10.8
-pdf2image>=1.17.0
-pypdf>=4.0.0
