@@ -8,6 +8,10 @@ four Local Government Areas in Bansara State (synthetic assessment data).
 Full written analysis: `docs/WRITTEN_RESPONSE.pdf`. AI tool disclosure:
 `AI_USE.md`. QA threshold justifications: `docs/QA_THRESHOLDS.md`.
 
+This repository also contains a second, independent assessment deliverable
+in `question6/` (a written capability-development response — no code or
+data pipeline, see `question6/README.md`).
+
 ## Repository layout
 
 ```
