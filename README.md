@@ -5,7 +5,7 @@ e-tally reconciliation, and missed-settlement cluster analysis for a
 five-day house-to-house Supplementary Immunization Activity (SIA) across
 four Local Government Areas in Bansara State (synthetic assessment data).
 
-Full written analysis: `docs/WRITTEN_RESPONSE.pdf`. AI tool disclosure:
+Full written analysis: `docs/Decision_Brief_Incident_Manager (1).pdf`. AI tool disclosure:
 `AI_USE.md`. QA threshold justifications: `docs/QA_THRESHOLDS.md`.
 
 This repository also contains a second, independent assessment deliverable
